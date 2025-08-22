@@ -1,0 +1,19 @@
+{
+  "validUser": 
+  {
+    "email": "snehas@vempower.org",
+    "password": "NikhilBholane@23"
+  },
+
+  "invalidPasswordUser": 
+  {
+    "email": "snehas@vempower.org",
+    "password": "Snehavempower"
+  },
+
+  "invalidEmailUser": 
+  {
+    "email": "demo",
+    "password": "1234567"
+  }
+}
